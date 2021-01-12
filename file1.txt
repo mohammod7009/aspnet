@@ -1,3 +1,0 @@
-'test' 
-'2nd commit for file1 feature-1' 
-'2nd commit for file1 feature-1' 
