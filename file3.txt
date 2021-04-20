@@ -1,3 +1,5 @@
+' tests ' remotely-appended
+remotely-added 1
+remotely-added-more 3
 tests changed 
-removed
 added
