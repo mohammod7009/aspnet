@@ -1,5 +1,6 @@
 ' tests ' remotely-appended
-remotely-added 1
+remotely-added 1 123
 remotely-added-more 3
 tests changed 
 added
+locally changed more at 10:12 am
