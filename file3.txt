@@ -1,2 +1,4 @@
-' tests ' 
+' tests ' remotely-appended
 s
+remotely-added 1
+remotely-added 2
