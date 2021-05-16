@@ -1,3 +1,1 @@
-m1
-local line final merged
-
+main file 1
